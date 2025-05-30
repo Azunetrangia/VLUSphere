@@ -39,7 +39,6 @@ Khó dự đoán khoảng giá chính xác.
 Khóa vốn: Người dùng không thể rút tiền trước khi kỳ hạn kết thúc, đòi hỏi cam kết tài chính trong thời gian khóa.
 
 Tuy nhiên, SharkFin được xem là an toàn hơn so với các sản phẩm đầu tư crypto khác nhờ cơ chế bảo vệ vốn gốc.
-
 Tóm tắt
 SharkFin là một sản phẩm tài chính đơn giản, dễ tiếp cận, phù hợp cho nhà đầu tư muốn kiếm lợi nhuận từ biến động giá của tài sản cơ bản (như BTC/VNST) mà không chịu rủi ro mất vốn gốc. Tuy nhiên, lợi nhuận phụ thuộc vào khả năng dự đoán đúng xu hướng giá và cam kết khóa vốn trong kỳ hạn.
 
@@ -106,3 +105,5 @@ Tính bền vững của quỹ thưởng: Cần nguồn doanh thu ổn định �
 Rủi ro hợp đồng thông minh: Cần bảo mật cao để tránh hack hoặc lỗi.
 Chi phí giao dịch blockchain: Có thể ảnh hưởng trải nghiệm người dùng trên các mạng có phí cao.
 
+DEMO vBTC TASK_SPIN: https://www.figma.com/proto/OZP669McOfw0eL5FhC0Ud0/vBTC---TASK---SPIN?node-id=10-45&t=v4KIu2v3EiKwUGfx-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3 #(ý tưởng từ sự kiện nhiệm vụ bitget)
+DEMO Sharkfin: https://www.bitget.com/vi/earning/shark-fin #(nguồn: bitget sharkfin)
